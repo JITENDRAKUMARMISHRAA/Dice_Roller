@@ -1,0 +1,5 @@
+dice roller project
+````````````````````
+in this project I have created a dice roller program .
+Wwhich can roll dice randomly and ,
+you can roll dice repeatedly by choosing YES or NO options through (y/n).
